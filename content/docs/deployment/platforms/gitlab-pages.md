@@ -9,6 +9,7 @@ draft: false
 toc: true
 ---
 
+<!--
 ## Overview
 
 With [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/), you can publish your Lotus Docs site directly from a repository in GitLab.
@@ -240,10 +241,11 @@ Use the following steps to get your Lotus Docs site up and running on GitLab Pag
 10. Revisit your repository on GitLab, navigate to **Build > Pipelines**, and you should see that your Hugo site was successfully built.
 
     ![GitLab pipelines screenshot](https://res.cloudinary.com/lotuslabs/image/upload/r_7/v1694885877/Lotus%20Docs/images/gitlab_pages_pipeline_01_engtdo.webp)
-    {.text-center}
+    {.text-center} -->
 
 <!-- 11. On Gitlab, navigate to **Settings > General**, scroll down and expand the **Advanced** section. Scroll once more till you see the **Change path** section and change the path to match that of your repo.
 
     ![](https://res.cloudinary.com/lotuslabs/image/upload/v1694817677/Lotus%20Docs/images/gitlab_settings_change_path_u8vxvs.webp) -->
 
-12. You should now be able to see your site at the `baseURL` (e.g. `https://colinwilson.gitlab.io`) defined in your `hugo.toml` / `hugo.yaml` / `hugo.json` config file
+<!-- 12. You should now be able to see your site at the `baseURL` (e.g. `https://colinwilson.gitlab.io`) defined in your `hugo.toml` / `hugo.yaml` / `hugo.json` config file -->
+
