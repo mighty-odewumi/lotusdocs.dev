@@ -1,13 +1,13 @@
 ---
 weight: 100
-date: "2024-03-17T15:00:22+01:00"
+date: "2022-09-30T05:33:22+01:00"
 draft: false
-author: "Roman Smolkin"
-title: "Roman Smolkin"
+author: "Colin Wilson"
+title: "Overview"
 icon: "circle"
 toc: true
-description: "Roman is a Product Designer with 18+ years of experience."
-publishdate: "2024-03-17T15:00:22+01:00"
+description: "Lotus Docs is a modern documentation theme built for Hugo."
+publishdate: "2022-09-30T05:33:22+01:00"
 tags: ["Beginners"]
 categories: [""]
 
@@ -15,24 +15,22 @@ twitter:
   card: "summary"
   site: "@LotusDocs"
   creator: "@LotusDocs"
-  title: "Who is Roman?"
-  description: "Who's Roman?"
+  title: "What is Lotus Docs?"
+  description: "Overview of Lotus Docs"
   image: ""
 ---
 
-Roman is a Product and UI designer with 18+ years of experience.
+Welcome to the Lotus Docs user guide. This guide shows you how to start creating technical documentation sites using Lotus Docs, including site customisation and using Lotus Docs' features and templates.
 
-## Who is Roman Smolkin?
+## What is Lotus Docs?
 
-* A Product and UX Designer
-* 18+ years of User Interaction Experience
-* 15+ years of leading web-based software engineering and Agile/Scrum development
-* 3+ years of leading a team of Remote UI designers and mentoring a team of Product Managers.
+Lotus Docs is a theme for the [Hugo](https://gohugo.io) static site generator (SSG), specifically designed for technical documentation sets and includes many best practices by default (The site you’re currently reading was built using the Lotus Docs theme!). Use Lotus Docs to get a working and reliable documentation site [up and running]({{% relref "quickstart" %}}) fast, leaving valuable time to focus on creating content for your users.
 
+### Features
 
+Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{% relref "configuration" %}}) available in the Lotus Docs theme are on display here in this documentation. You can clone this entire site and edit it to suit your projects, or explore the site, its source and see what Lotus Docs can do. Check out a few of Lotus Docs' features:
 
-
-<!-- <div class="row flex-xl-wrap pb-4">
+<div class="row flex-xl-wrap pb-4">
 
 <div id="list-item" class="col-md-4 col-12 py-2">
   <a class="text-decoration-none text-reset" href="../features/syntax-highlighting/">
@@ -118,14 +116,10 @@ Roman is a Product and UI designer with 18+ years of experience.
   </a>
 </div>
 
-</div> -->
-
-<!-- 
+</div>
 
 ## Who is Lotus Docs for?
 
 Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
 
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates. 
-
--->
+The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
